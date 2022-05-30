@@ -1,0 +1,48 @@
+body{
+background-image: url("I Am jopa 1000-7 1000-8");
+background-color:rgb(251, 229, 204) ;
+    padding: 50px;
+}
+h1{
+     margin: auto;
+
+}
+
+div{ 
+    margin-top: 2px;
+    text-align:center;
+}
+ #comtainer{ background-color: grey;
+    width:auto;
+ }
+
+ .header{
+     background-color:darkgoldenrod;
+     height:150px;
+ }
+
+.navi{
+    background-color: gold; 
+}
+.nagigatir{
+    background-color: chartreuse;
+}
+.atir{
+    background-color: blue;
+}
+.tir{
+    background-color: aqua;
+}
+.BEBRA{
+    background-color: mediumorchid;
+}
+.navi{
+    background-color: chartreuse;
+} 
+carusel{
+    margin:10xp;
+    display: flex;
+}
+.carusel div{
+    flex:70%;
+    align-radius:flex-start
